@@ -1,0 +1,28 @@
+.header {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+form {
+  width: 60%;
+  margin: 5% auto;
+}
+
+.loading {
+  text-align: center;
+}
+
+.loading img {
+  width: 30%;
+}
+
+.tweet {
+  background-color: rgb(231, 231, 231);
+}
+
+.error-message {
+  background: #ff9b9b;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
